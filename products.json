@@ -53,8 +53,8 @@
       "description": "Caftan majestueux en tissu brocard argenté, souligné par des bordures et une ceinture en velours bleu ou vert royal pour un contraste riche.",
       "category": "caftan",
       "variants": [
-        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/caftanbleuu.jpg" },
-        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/caftangreen.jpg" }
+        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/caftanbleuu.jpeg" },
+        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/caftangreen.jpeg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -204,7 +204,7 @@
       "title": "Babouches Idokan",
       "price": 90.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/idokanred.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/idokanred.jpeg",
       "description": "Chaussures-babouches plates et colorées en cuir rouge ou jaune, caractérisées par de la broderie tribale et des pompons décoratifs sur le devant.",
       "category": "babouche",
       "variants": [
@@ -282,4 +282,5 @@
     }
   ]
 }
+
 
