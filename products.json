@@ -54,7 +54,7 @@
       "category": "caftan",
       "variants": [
         { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/caftanbleuu.jpeg" },
-        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/caftangreen.jpeg" }
+        { "color": "#264915", "image": "https://zaynabourchane.github.io/myshop-api/caftangreen.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -282,5 +282,6 @@
     }
   ]
 }
+
 
 
