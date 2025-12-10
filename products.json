@@ -6,12 +6,12 @@
       "title": "Takchita Tarz Fassi",
       "price": 7200.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/takchitavert.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/takchitavert.jpg",
       "description": "Découvrez l'élégance pure avec notre Takchita Tarz Fassi. Fabriquée à la main en tissu blanc fluide, elle est ornée de broderies Tarz Fassi traditionnelles. Un chef-d'œuvre de l'artisanat marocain, parfait pour vos célébrations.",
       "category": "caftan",
       "variants": [
-        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/images/takchitavert.jpg" },
-        { "color": "#340707", "image": "https://zaynabourchane.github.io/myshop-api/images/takchitarouge.jpg" }
+        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/takchitavert.jpg" },
+        { "color": "#340707", "image": "https://zaynabourchane.github.io/myshop-api/takchitarouge.jpg" }
       ],
       "sizes": ["M", "L", "XL"]
     },
@@ -20,12 +20,12 @@
       "title": "Caftan en Satin",
       "price": 6500.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/caftanvert.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/caftanvert.jpg",
       "description": "Caftan moderne et élégant en satin de soie vert olive ou bleu, rehaussé d'une broderie ton sur ton et ceinturé par une large ceinture du même tissu.",
       "category": "caftan",
       "variants": [
-        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanvert.jpg" },
-        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanbleu.jpg" }
+        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/caftanvert.jpg" },
+        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/caftanbleu.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -34,13 +34,13 @@
       "title": "Caftan Jawhara Royal",
       "price": 5800.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/caftanjawharawhite.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/caftanjawharawhite.jpg",
       "description": "Caftan de mariage ou de cérémonie en tissu Jawhara (souvent rayé et texturé).",
       "category": "caftan",
       "variants": [
-        { "color": "#FFFFFF", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanjawharawhite.jpg" },
-        { "color": "#FF5E00", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanjawharaorange.jpg" },
-        { "color": "#4E4AA4", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanjawharableu.jpg" }
+        { "color": "#FFFFFF", "image": "https://zaynabourchane.github.io/myshop-api/caftanjawharawhite.jpg" },
+        { "color": "#FF5E00", "image": "https://zaynabourchane.github.io/myshop-api/caftanjawharaorange.jpg" },
+        { "color": "#4E4AA4", "image": "https://zaynabourchane.github.io/myshop-api/caftanjawharableu.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -49,12 +49,12 @@
       "title": "Caftan Haute Couture Argenté",
       "price": 6900.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/caftanbleuu.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/caftanbleuu.jpg",
       "description": "Caftan majestueux en tissu brocard argenté, souligné par des bordures et une ceinture en velours bleu ou vert royal pour un contraste riche.",
       "category": "caftan",
       "variants": [
-        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/images/caftanbleuu.jpg" },
-        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/images/caftangreen.jpg" }
+        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/caftanbleuu.jpg" },
+        { "color": "#0D1C07", "image": "https://zaynabourchane.github.io/myshop-api/caftangreen.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -63,13 +63,13 @@
       "title": "Tenue Traditionnelle Soussia/Amazighe",
       "price": 8000.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/caftansoussijaune.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/caftansoussijaune.jpg",
       "description": "Tenue régionale du Sud (Souss) caractérisée par ses couluer, des broderies vives et une abondance de bijoux traditionnels en argent.",
       "category": "caftan",
       "variants": [
-        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/images/caftansoussijaune.jpg" },
-        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/images/caftansoussirouge.jpg" },
-        { "color": "#FF6F00", "image": "https://zaynabourchane.github.io/myshop-api/images/caftansoussiorange.jpg" }
+        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/caftansoussijaune.jpg" },
+        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/caftansoussirouge.jpg" },
+        { "color": "#FF6F00", "image": "https://zaynabourchane.github.io/myshop-api/caftansoussiorange.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -79,13 +79,13 @@
       "title": "Djellaba Classy",
       "price": 450.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/djellabavert.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/djellabavert.jpg",
       "description": "Djellaba luxueuse en tissu brocard (jacquard de soie) avec des motifs lilas/mauves, souvent portée par-dessus un kmiss (sous-vêtement).",
       "category": "djellaba",
       "variants": [
-        { "color": "#659797", "image": "https://zaynabourchane.github.io/myshop-api/images/djellabavert.jpg" },
-        { "color": "#990D6F", "image": "https://zaynabourchane.github.io/myshop-api/images/djellabaviolet.jpg" },
-        { "color": "#C5C73D", "image": "https://zaynabourchane.github.io/myshop-api/images/djellabajaune.jpg" }
+        { "color": "#659797", "image": "https://zaynabourchane.github.io/myshop-api/djellabavert.jpg" },
+        { "color": "#990D6F", "image": "https://zaynabourchane.github.io/myshop-api/djellabaviolet.jpg" },
+        { "color": "#C5C73D", "image": "https://zaynabourchane.github.io/myshop-api/djellabajaune.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -94,12 +94,12 @@
       "title": "Djellaba Élégance",
       "price": 680.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/djellabaorange.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/djellabaorange.jpg",
       "description": "Djellaba à capuche avec de riches broderies ton sur ton et des motifs blancs ou écrus sur le col et les poignets.",
       "category": "djellaba",
       "variants": [
-        { "color": "#F84C08", "image": "https://zaynabourchane.github.io/myshop-api/images/djellabaorange.jpg" },
-        { "color": "#B68977", "image": "https://zaynabourchane.github.io/myshop-api/images/djellababeige.jpg" }
+        { "color": "#F84C08", "image": "https://zaynabourchane.github.io/myshop-api/djellabaorange.jpg" },
+        { "color": "#B68977", "image": "https://zaynabourchane.github.io/myshop-api/djellababeige.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -108,11 +108,11 @@
       "title": "Djellaba Grise Claire à Sfifa",
       "price": 520.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/djellaba2.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/djellaba2.jpg",
       "description": "Djellaba gris clair/beige au style minimaliste, soulignée par une sfifa foncée gris anthracite pour définir la coupe.",
       "category": "djellaba",
       "variants": [
-        { "color": "#B2B5BA", "image": "https://zaynabourchane.github.io/myshop-api/images/djellaba2.jpg" }
+        { "color": "#B2B5BA", "image": "https://zaynabourchane.github.io/myshop-api/djellaba2.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -121,11 +121,11 @@
       "title": "Djellaba Bleu Pétrole à Capuche",
       "price": 600.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/djellaba5.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/djellaba5.jpg",
       "description": "Djellaba fluide bleu pétrole ou bleu céladon, avec des détails de sfifa assortie ou argentée et une coupe droite.",
       "category": "djellaba",
       "variants": [
-        { "color": "#6A87AD", "image": "https://zaynabourchane.github.io/myshop-api/images/djellaba5.jpg" }
+        { "color": "#6A87AD", "image": "https://zaynabourchane.github.io/myshop-api/djellaba5.jpg" }
       ],
       "sizes": ["S", "M", "L"]
     },
@@ -134,12 +134,12 @@
       "title": "Djellaba Haute Élégance",
       "price": 750.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/djellaba4.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/djellaba4.jpg",
       "description": "Djellaba oversize avec des galons (sfifas) et un bord de capuche blancs qui contrastent fortement, et des manches en organza brodé.",
       "category": "djellaba",
       "variants": [
-        { "color": "#643636", "image": "https://zaynabourchane.github.io/myshop-api/images/djellaba4.jpg" },
-        { "color": "#6F666B", "image": "https://zaynabourchane.github.io/myshop-api/images/djellabagris.jpg" }
+        { "color": "#643636", "image": "https://zaynabourchane.github.io/myshop-api/djellaba4.jpg" },
+        { "color": "#6F666B", "image": "https://zaynabourchane.github.io/myshop-api/djellabagris.jpg" }
       ],
       "sizes": ["S", "M", "L", "XL", "2XL"]
     },
@@ -149,11 +149,11 @@
       "title": "Babouches “Léopard Chic”",
       "price": 199.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/babouche4.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/babouche4.jpg",
       "description": "Mules confortables au motif léopard, idéales pour un look tendance et moderne.",
       "category": "babouche",
       "variants": [
-        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/images/babouche4.jpg" }
+        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/babouche4.jpg" }
       ],
       "sizes": ["36", "37", "38", "39", "40"]
     },
@@ -162,12 +162,12 @@
       "title": "Babouche en Peau de Serpent",
       "price": 450.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/baboucherougee.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/baboucherougee.jpg",
       "description": "Mules contemporaines et élégantes avec un bout pointu, mélangeant suède rouge ou noir uni et motif serpent.",
       "category": "babouche",
       "variants": [
-        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/images/baboucherougee.jpg" },
-        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/images/babouchenoiree.jpg" }
+        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/baboucherougee.jpg" },
+        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/babouchenoiree.jpg" }
       ],
       "sizes": ["36", "37", "38", "39", "40"]
     },
@@ -176,13 +176,13 @@
       "title": "Babouche en Velours",
       "price": 200.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/babouchevert.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/babouchevert.jpg",
       "description": "Mules sophistiquées en velours à bout pointu, embellies d'un bijou décoratif pour une touche d'élégance.",
       "category": "babouche",
       "variants": [
-        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/images/babouchevert.jpg" },
-        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/images/baboucherouge.jpg" },
-        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/images/babouchenoire.jpg" }
+        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/babouchevert.jpg" },
+        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/baboucherouge.jpg" },
+        { "color": "#000000", "image": "https://zaynabourchane.github.io/myshop-api/babouchenoire.jpg" }
       ],
       "sizes": ["37", "38", "39", "40", "41"]
     },
@@ -191,11 +191,11 @@
       "title": "Babouches Amazigh",
       "price": 400.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/babouche3.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/babouche3.jpg",
       "description": "Qualité et durabilité.",
       "category": "babouche",
       "variants": [
-        { "color": "#0B0347", "image": "https://zaynabourchane.github.io/myshop-api/images/babouche3.jpg" }
+        { "color": "#0B0347", "image": "https://zaynabourchane.github.io/myshop-api/babouche3.jpg" }
       ],
       "sizes": ["36", "37", "38", "39", "40"]
     },
@@ -204,12 +204,12 @@
       "title": "Babouches Idokan",
       "price": 90.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/idokanred.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/idokanred.jpg",
       "description": "Chaussures-babouches plates et colorées en cuir rouge ou jaune, caractérisées par de la broderie tribale et des pompons décoratifs sur le devant.",
       "category": "babouche",
       "variants": [
-        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/images/idokanred.jpg" },
-        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/images/idokanwhite.jpg" }
+        { "color": "#8B0000", "image": "https://zaynabourchane.github.io/myshop-api/idokanred.jpg" },
+        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/idokanwhite.jpg" }
       ],
       "sizes": ["36", "37", "38", "39", "40"]
     },
@@ -219,12 +219,12 @@
       "title": "Boucles d’Oreilles Luxe",
       "price": 200.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/accessoire3.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/accessoire3.jpg",
       "description": "De longues boucles filigranées dorées, décorées d’une pierre bleue ou vert intense pour une touche glamour.",
       "category": "accessoires",
       "variants": [
-        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoire3.jpg" },
-        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoirevert.jpg" }
+        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/accessoire3.jpg" },
+        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/accessoirevert.jpg" }
       ],
       "sizes": ["Unique"]
     },
@@ -233,11 +233,11 @@
       "title": "Bracelet “Amazigh Royal”",
       "price": 300.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/accessoire5.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/accessoire5.jpg",
       "description": "Bracelet traditionnel en argent décoré d’émail coloré et de pierres pour un style artisanal authentique.",
       "category": "accessoires",
       "variants": [
-        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoire5.jpg" }
+        { "color": "#000080", "image": "https://zaynabourchane.github.io/myshop-api/accessoire5.jpg" }
       ],
       "sizes": ["Unique"]
     },
@@ -246,11 +246,11 @@
       "title": "Ensemble Andalus Émeraude",
       "price": 850.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/accessoire1.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/accessoire1.jpg",
       "description": "Un ensemble doré richement travaillé, orné de pierres vertes en forme de goutte pour un style royal et traditionnel.",
       "category": "accessoires",
       "variants": [
-        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoire1.jpg" }
+        { "color": "#006400", "image": "https://zaynabourchane.github.io/myshop-api/accessoire1.jpg" }
       ],
       "sizes": ["Unique"]
     },
@@ -259,11 +259,11 @@
       "title": "Ensemble Perla Royale",
       "price": 760.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/accessoire2.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/accessoire2.jpg",
       "description": "Un set élégant composé de rangs de perles et de détails dorés incrustés de cristaux, parfait pour un look raffiné.",
       "category": "accessoires",
       "variants": [
-        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoire2.jpg" }
+        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/accessoire2.jpg" }
       ],
       "sizes": ["Unique"]
     },
@@ -272,11 +272,11 @@
       "title": "Boucles d’oreilles “Arabesque Dorée",
       "price": 100.00,
       "currency": "MAD",
-      "main_image": "https://zaynabourchane.github.io/myshop-api/images/accessoire4.jpg",
+      "main_image": "https://zaynabourchane.github.io/myshop-api/accessoire4.jpg",
       "description": "Un ensemble doré richement travaillé, orné de pierres vertes en forme de goutte pour un style royal et traditionnel.",
       "category": "accessoires",
       "variants": [
-        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/images/accessoire4.jpg" }
+        { "color": "#FAB005", "image": "https://zaynabourchane.github.io/myshop-api/accessoire4.jpg" }
       ],
       "sizes": ["Unique"]
     }
